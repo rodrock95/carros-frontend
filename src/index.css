@@ -2,11 +2,13 @@
 :root {
   --ct-color-bg-primary: #fff;
   --ct-color-bg-secondary: #F78B00;
+  --ct-color-bg-tertiary: #00285F;
 
   --color-font-primary: #000;
   --color-font-secondary: #585858;
   --color-font-tertiary: #00285F;
   --color-font-quartenary: #fff;
+  --color-font-placeholder: #a7a7a7;
 
 }
 
